@@ -1,7 +1,7 @@
 
 function printBadges() {
 
-  for (i=0; i < i++) {
+  for (i=0; i < length; i++) {
     console.log("Welcome ${arr[i]}! You are employee #${i}.")
   }
   console.log(arr)
