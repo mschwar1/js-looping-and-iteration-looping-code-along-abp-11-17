@@ -1,8 +1,6 @@
 
-var arr = ['Ada', 'Brendan', 'Ali']
-
-function printBadges(arr) {
-  for (i=0; i < length.arr; i++) {
+function printBadges() {
+  for (i=0; i++) {
     console.log("Welcome ${arr[i]}! You are employee #${i}.")
   }
   console.log(arr)
