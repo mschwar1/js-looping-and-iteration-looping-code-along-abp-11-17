@@ -1,4 +1,5 @@
-var arr
+
+var arr = ['Ada', 'Brendan', 'Ali']
 
 function printBadges(arr) {
   for (i=0; i < length.arr; i++) {
