@@ -5,5 +5,5 @@ function printBadges(arr) {
   for (i=0, i<arr.length, i++) {
     console.log("Welcome ${newEmployees[i]}! You are employee #${i}.")
   }
-  console.log(newEmployees)
+  console.log(arr)
 }
